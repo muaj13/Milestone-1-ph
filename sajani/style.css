@@ -1,0 +1,18 @@
+h1{
+    color: lightgreen;
+    background-color: navy;
+    border-radius: 25px;
+    border-style: dotted;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: overline;
+}
+.second{
+/* display: none; */
+/* visibility: hidden; */
+
+}
+div{
+    margin: 65px;
+    border: 9px solid red;
+    box-shadow:7px 7px 20px blueviolet ;
+}
